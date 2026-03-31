@@ -34,5 +34,5 @@ You only need Python installed on your machine to run this script.
     ```
 3. Run the Python script:
     ```bash
-    python map_coloring.py
+    python Telangana-Map-Coloring-CSP.py
     ```
